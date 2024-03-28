@@ -1,0 +1,2 @@
+[console_scripts]
+audio-offset-finder = audio_offset_finder.cli:run
